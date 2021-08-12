@@ -21,6 +21,19 @@ All codes are tested on Linux.
    git clone https://github.com/TanJing94/Deep_Portraits_Correction.git
    cd Deep_Portraits_Correction
    ```
+2. Install dependencies
+   ```
+   pip install -r requirements.txt
+   ```
+
+### Resources preparation
+1. Dataset
+2. Pre-trained model
+
+### Training
+
+
+### Testing
 
 
 
@@ -28,10 +41,11 @@ All codes are tested on Linux.
 If you find this work or code is helpful in your research, please cite:
 
 ```
-@article{tan2021practical,
+@inproceedings{tan2021practical,
   title={Practical Wide-Angle Portraits Correction with Deep Structured Models},
   author={Tan, Jing and Zhao, Shan and Xiong, Pengfei and Liu, Jiangyu and Fan, Haoqiang and Liu, Shuaicheng},
-  journal={arXiv preprint arXiv:2104.12464},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3498--3506},
   year={2021}
 }
 ```
