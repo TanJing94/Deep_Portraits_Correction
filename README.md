@@ -28,6 +28,9 @@ All codes are tested on Linux.
 
 ### Resources preparation
 1. Dataset
++ Download from [[BaiduCloud](https://pan.baidu.com/s/1MvwulIIs2CowfQ-8d0gcsQ?pwd=5pe5)], extraction code: 5pe5
++ Please refer to [[dataset.py](https://github.com/megvii-research/Portraits_Correction/blob/main/utils/dataset.py)] for data usage
+
 2. Pre-trained model
 
 ### Training
